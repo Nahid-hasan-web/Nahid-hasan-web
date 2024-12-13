@@ -1,6 +1,4 @@
 - 🔭 I’m currently working on creative it institute - uttora branch 
-- 🌱 I’m currently learning next js 
-- 💬 Ask me about web development 
 - 📫 How to reach me: nahidhasanniyan@gmail.com 
 
 ## 🌐 Socials:
