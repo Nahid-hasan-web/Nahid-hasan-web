@@ -13,4 +13,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=nahid-hasan-web&icon=0&color=0)](https://visitcount.itsvg.in)
 
+
+<a href="https://u8views.com/github/Nahid-hasan-web"><img src="https://u8views.com/api/v1/github/profiles/149667498/views/day-week-month-total-count.svg"></a>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
